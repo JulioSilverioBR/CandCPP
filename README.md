@@ -1,4 +1,2 @@
-# CandCPP
-Curso de C e C++ 
-
+# CandCPP 
 Arquivios para se basear no futuro
